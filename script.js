@@ -30,6 +30,7 @@ function processXml(xml)
 
 
 // for the map
+/*
 $(document).ready(function(){
   $("address").each(function(){                         
     var embed ="<iframe width='425' height='350' frameborder='0' scrolling='no'  marginheight='0' marginwidth='0'   src='https://maps.google.com/maps?&amp;q="+ encodeURIComponent( $(this).text() ) +"&amp;output=embed'></iframe>";
@@ -37,6 +38,7 @@ $(document).ready(function(){
                              
    });
 });
+*/
 
 
 /* Find the position in a map from postcode or adress */
